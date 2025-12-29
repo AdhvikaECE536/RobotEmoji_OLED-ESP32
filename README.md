@@ -1,4 +1,4 @@
-# RobotEmoji_OLED-ESP32
+# Robot Emoji OLED-ESP32
 
 This repository contains an expressive animated robot face using ESP32 microcontroller and OLED display.
 
