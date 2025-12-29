@@ -16,6 +16,7 @@ This repository contains an expressive animated robot face using ESP32 microcont
 
 
 ### ✨ Features
+
 - 👁️ Animated Eyes - Realistic blinking and eye movements
 - 😊 6 Emotions - Happy, Sad, Angry, Surprised, Sleepy, and Wink
 - 🎯 Auto Behaviors - Automatic blinking and random eye movements
