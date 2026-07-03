@@ -405,6 +405,14 @@ GET http://localhost:3000/emotion/SURPRISED
 GET http://localhost:3000/emotion/SLEEPY
 GET http://localhost:3000/emotion/WINK
 ```
+---
+
+## Photos
+
+<img width="767" height="425" alt="image" src="https://github.com/user-attachments/assets/b40889f6-b46d-4e51-bcae-8a22d03e6e69" />
+
+<img width="768" height="647" alt="image" src="https://github.com/user-attachments/assets/1c33ab9b-b59f-4e9d-814a-4cf7fbca0b93" />
+
 
 --- 
 
